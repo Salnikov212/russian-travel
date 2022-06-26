@@ -1,23 +1,15 @@
-# Проект: Путешествие по России
+# Project: Russian travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## Review
 
-**Интро**
+This is a project of a site about traveling in Russia. It uses media queries, flexbox and grid. It is also made according to the methodology BEM - Nested
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+The project uses **CSS3**, **HTML5**.
+Responsive layout is made for basic resolutions of 320px, 760px, 1024px and 1280px.
 
-**Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+**Links**
+ 
+[Project link](https://github.com/Salnikov212/russian-travel) on GitHub
 
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+[Link to layout](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile) in Figma
