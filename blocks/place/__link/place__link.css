@@ -1,5 +1,5 @@
 .place__link {
-    display: block;
+    display: inline-block;
     margin: 0;
     padding: 0;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
@@ -8,6 +8,8 @@
     font-size: 18px;
     line-height: 122%;
     color: #fff;
+    align-self: start;
+    justify-content: start;
   }
   
   .place__link:hover {
