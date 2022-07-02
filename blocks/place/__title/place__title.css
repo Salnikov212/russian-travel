@@ -6,9 +6,7 @@
     font-size: 72px;
     line-height: 1.06;
     color: #fff;
-    letter-spacing: 1.03px;
-    align-self: flex-end;
-    justify-self: flex-start;
+    text-rendering: optimizeLegibility;
   }
   
   @media screen and (max-width: 1023px) {
@@ -25,6 +23,7 @@
       width: 288px;
       font-size: 32px;
       line-height: 1.09;
+      
     }
   }
   
