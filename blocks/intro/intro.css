@@ -7,27 +7,29 @@
     align-items: start;
     flex-wrap: nowrap;
     max-width: 984px;
-    padding: 92px 0 0;
+    padding: 92px 148px 0;
     margin: 0 auto;
+    box-sizing: border-box;
   }
   
   @media screen and (max-width: 1279px) {
     .intro {
-      max-width: 928px;
+      padding: 92px 48px 0;
     }
   }
   
   @media screen and (max-width: 1023px) {
     .intro {
-      max-width: 720px;
-      padding: 88px 0 0;
+      padding: 88px 24px 0;
     }
   }
   
   @media screen and (max-width: 767px) {
     .intro {
-      max-width: 290px;
-      padding: 64px 0 0;
+      min-width: 288px;
+      padding: 64px 16px 0;
+
+      
     }
   }
   

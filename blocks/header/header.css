@@ -1,19 +1,17 @@
 .header {
     max-width: 1184px;
     width: 100%;
-    margin: 0;
-    padding: 28px 0 56px;
+    padding: 0;
     display: flex;
     flex-wrap: nowrap;
     align-content: flex-end;
     justify-content: space-between;
-    box-sizing: content-box;
-    
+    box-sizing: border-box;
+    margin: 0 auto;
   }
   
   @media screen and (max-width: 1279px) {
     .header {
-      padding: 28px 0 48px;
       max-width: 928px;
     }
   }
@@ -21,19 +19,22 @@
   @media screen and (max-width: 1023px) {
     .header {
       max-width: 720px;
+      
     }
   }
   
   @media screen and (max-width: 767px) {
     .header {
       padding: 28px 0 40px;
+     
     }
   }
 
  @media screen and (max-width: 424px) {
     .header {
-      max-width: 288px;
-      padding: 16px 16px 40px;
+      min-width: 288px;
+      padding: 16px 16px 0;
+      margin: 0;
     }
   }
   
